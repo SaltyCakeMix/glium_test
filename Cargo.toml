@@ -1,0 +1,8 @@
+[package]
+name = "glium-test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+glium = "0.32.1"
+image = "*"
